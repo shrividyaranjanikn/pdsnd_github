@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+05.20.2020
 
 ### Project Title
-Replace the Project Title
+Post your work on Github
 
 ### Description
-Describe what your project is about and what it does
+In this project, I created a GitHub repository and my local repository. I worked on a repo for my BikeShare project, making multiple branches, making edits to files on those branches (e.g., a readme file and my Python code), and then I made commits of the changes to my remote repository.
 
 ### Files used
-Include the files used
+.gitignore
+bikeshare.py
+README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity
 
