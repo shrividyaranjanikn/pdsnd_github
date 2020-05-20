@@ -20,7 +20,7 @@ def get_filters():
     city = input("Enter city")
 
     # TO DO: get user input for month (all, january, february, ... , june)
-    
+    month = input("Enter month")
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
 
